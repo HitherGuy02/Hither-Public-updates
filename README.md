@@ -3,8 +3,7 @@ Updates for how my web browser hither is going (with binaries(app files) include
 
 ###Features
  - ***CUSTOM*** tabs
- - Internet Access
- - 
+ - Internet Access 
  
 
 
