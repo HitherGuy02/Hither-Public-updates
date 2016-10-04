@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/sterling/Desktop/Hither-Public-updates/Debug/URLWeb.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "URLWeb-Swift.h",
+          'external-contents': "/Users/sterling/Desktop/Hither-Public-updates/Debug/URLWeb.framework/Versions/A/Headers/URLWeb-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sterling/Desktop/Hither-Public-updates/Debug/URLWeb.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sterling/Desktop/Hither-Public-updates/hitherrr copy 8.build/Debug/URLWeb.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
