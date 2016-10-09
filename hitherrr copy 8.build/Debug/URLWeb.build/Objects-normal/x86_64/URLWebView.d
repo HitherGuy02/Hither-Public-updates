@@ -8,12 +8,6 @@ dependencies: /Users/sterling/Desktop/Hither/hitherrr/URLWebView.m \
   /Users/sterling/Desktop/Hither/URLWeb/Connector.h \
   /Users/sterling/Desktop/Hither/hitherrr/ViewController.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tabby.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Javascript.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
-  /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebViewPrivate.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebFramePrivate.h \
   /Users/sterling/Desktop/Hither/URLWeb/SourceButton.h

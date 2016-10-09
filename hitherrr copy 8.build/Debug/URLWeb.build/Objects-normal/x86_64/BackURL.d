@@ -9,10 +9,4 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/BackURL.m \
   /Users/sterling/Desktop/Hither/URLWeb/WebHistoryDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tabby.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Javascript.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
-  /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h \
   /Users/sterling/Desktop/Hither/URLWeb/ForwardURL.h

@@ -119,7 +119,7 @@
 					WELCOME TO HITHER!
 				&lt;/h3&gt;
 				&lt;p&gt;
-					Hither is a web browser that is still in development Please mind that there are bugs.
+					Hither is a web browser that is still in development. Please mind that there are bugs.
 				&lt;/p&gt;&lt;a href=&quot;settings.html&quot; class=&quot;btn  btn-d   btn-rd btn-lg pull-left&quot;&gt;Settings&lt;/a&gt;&lt;a href=&quot;historypage.html&quot; class=&quot;btn  btn-d  btn-lg  btn-rd&quot;&gt;History&lt;/a&gt;
 				
 					&lt;button onclick=&quot;Calc()&quot;&gt; ClickMe &lt;/button&gt; 

@@ -5,22 +5,23 @@ dependencies: /Users/sterling/Desktop/Hither/hitherrr/ViewController.m \
   /Users/sterling/Desktop/Hither/URLWeb/URLWebView2.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebHistoryDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLDelegate.h \
-  /Users/sterling/Desktop/Hither/URLWeb/SearchURLField.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Connector.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tabby.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Javascript.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
-  /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h \
   /Users/sterling/Desktop/Hither/hitherrr/classes/Password.h \
   /Users/sterling/Desktop/Hither/hitherrr/classes/Password+CoreDataProperties.h \
   /Users/sterling/Desktop/Hither/hitherrr/Sign-in.h \
   /Users/sterling/Desktop/Hither/hitherrr/AppDelegate.h \
   /Users/sterling/Desktop/Hither/hitherrr/Classy.h \
+  /Users/sterling/Desktop/Hither/URLWeb/SearchURLField.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Connector.h \
   /Users/sterling/Desktop/Hither/hitherrr/Text.h \
   /Users/sterling/Desktop/Hither/URLWeb/BackURL.h \
   /Users/sterling/Desktop/Hither/URLWeb/ForwardURL.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
+  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
   /Users/sterling/Desktop/Hither/URLWeb/TabView.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tabb.h
+  /Users/sterling/Desktop/Hither/URLWeb/Tabb.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Tabby.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Javascript.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WindowConr.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
+  /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h

@@ -6,11 +6,10 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tabby.m \
   /Users/sterling/Desktop/Hither/URLWeb/URLWebView2.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebHistoryDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLDelegate.h \
-  /Users/sterling/Desktop/Hither/URLWeb/SearchURLField.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Connector.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
   /Users/sterling/Desktop/Hither/URLWeb/Tabby.h \
   /Users/sterling/Desktop/Hither/URLWeb/Javascript.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WindowConr.h \
   /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
   /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
   /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
@@ -18,13 +17,16 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tabby.m \
   /Users/sterling/Desktop/Hither/URLWeb/SourceButton.h \
   /Users/sterling/Desktop/Hither/URLWeb/HideTab.h \
   /Users/sterling/Desktop/Hither/URLWeb/TabView.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Connector.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDView.h \
   /Users/sterling/Desktop/Hither/URLWeb/Tabb.h \
   /Users/sterling/Desktop/Hither/URLWeb/BackURL.h \
+  /Users/sterling/Desktop/Hither/URLWeb/SearchURLField.h \
   /Users/sterling/Desktop/Hither/URLWeb/ForwardURL.h \
   /Users/sterling/Desktop/Hither/hitherrr/AppDelegate.h \
   /Users/sterling/Desktop/Hither/hitherrr/Classy.h \
   /Users/sterling/Desktop/Hither/URLWeb/SearchButton.h \
+  /Users/sterling/Desktop/Hither/URLWeb/MenuItem.h \
   /Users/sterling/Desktop/Hither/URLWeb/FastResize.h \
   /Users/sterling/Desktop/Hither/URLWeb/HistoryMaker.h \
   /Users/sterling/Desktop/Hither/URLWeb/AKAppleIDAuthenticationDaemonProtocol-Protocol.h \
