@@ -22,4 +22,5 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tab.m \
   /Users/sterling/Desktop/Hither/URLWeb/BackURL.h \
   /Users/sterling/Desktop/Hither/URLWeb/SearchButton.h \
   /Users/sterling/Desktop/Hither/URLWeb/SourceButton.h \
+  /Users/sterling/Desktop/Hither/URLWeb/MenuItem.h \
   /Users/sterling/Desktop/Hither/URLWeb/Bookmarks.h
