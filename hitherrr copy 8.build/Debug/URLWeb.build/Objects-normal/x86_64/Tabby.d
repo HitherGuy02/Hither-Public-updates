@@ -4,18 +4,25 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tabby.m \
   /Users/sterling/Desktop/Hither/hitherrr/URLWebView.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLNavigation.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLWebView2.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
+  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegate.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegatePrivate.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebHistoryDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
   /Users/sterling/Desktop/Hither/URLWeb/Tabby.h \
   /Users/sterling/Desktop/Hither/URLWeb/Javascript.h \
+  /Users/sterling/Desktop/Hither/URLWeb/LinkView.h \
   /Users/sterling/Desktop/Hither/URLWeb/WindowConr.h \
   /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
   /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h \
+  /Users/sterling/Desktop/Hither/URLWeb/PasswordSave.h \
   /Users/sterling/Desktop/Hither/URLWeb/SourceButton.h \
   /Users/sterling/Desktop/Hither/URLWeb/HideTab.h \
+  /Users/sterling/Desktop/Hither/URLFunctions.framework/Modules/module.modulemap \
+  /Users/sterling/Desktop/Hither/URLFunctions.framework/Headers/URLFunc.h \
+  /Users/sterling/Desktop/Hither/URLFunctions.framework/Headers/URLFunctions.h \
   /Users/sterling/Desktop/Hither/URLWeb/TabView.h \
   /Users/sterling/Desktop/Hither/URLWeb/Connector.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDView.h \
@@ -27,10 +34,14 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tabby.m \
   /Users/sterling/Desktop/Hither/hitherrr/Classy.h \
   /Users/sterling/Desktop/Hither/URLWeb/SearchButton.h \
   /Users/sterling/Desktop/Hither/URLWeb/MenuItem.h \
+  /Users/sterling/Desktop/Hither/URLWeb/BackgroundPerform.h \
   /Users/sterling/Desktop/Hither/URLWeb/FastResize.h \
   /Users/sterling/Desktop/Hither/URLWeb/HistoryMaker.h \
   /Users/sterling/Desktop/Hither/URLWeb/AKAppleIDAuthenticationDaemonProtocol-Protocol.h \
   /Users/sterling/Desktop/Hither/URLWeb/ImageDownload.h \
   /Users/sterling/Desktop/Hither/URLWeb/BookmarkButton.h \
   /Users/sterling/Desktop/Hither/URLWeb/TabIcon.h \
+  /Users/sterling/Desktop/Hither/URLWeb/DownloadControl.h \
+  /Users/sterling/Desktop/Hither/URLWeb/NSDownload.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Connection.h \
   /Users/sterling/Desktop/Hither/URLWeb/Bookmarks.h

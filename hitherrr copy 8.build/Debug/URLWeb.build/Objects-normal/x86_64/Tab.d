@@ -4,19 +4,23 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tab.m \
   /Users/sterling/Desktop/Hither/hitherrr/URLWebView.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLNavigation.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLWebView2.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
+  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegate.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegatePrivate.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebHistoryDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/Tab.h \
-  /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
   /Users/sterling/Desktop/Hither/URLWeb/Bezier.h \
   /Users/sterling/Desktop/Hither/URLWeb/HideTab.h \
   /Users/sterling/Desktop/Hither/URLWeb/Tabb.h \
   /Users/sterling/Desktop/Hither/URLWeb/Tabby.h \
   /Users/sterling/Desktop/Hither/URLWeb/Javascript.h \
+  /Users/sterling/Desktop/Hither/URLWeb/LinkView.h \
   /Users/sterling/Desktop/Hither/URLWeb/WindowConr.h \
   /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
   /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h \
+  /Users/sterling/Desktop/Hither/URLWeb/PasswordSave.h \
   /Users/sterling/Desktop/Hither/URLWeb/ForwardURL.h \
   /Users/sterling/Desktop/Hither/URLWeb/SearchURLField.h \
   /Users/sterling/Desktop/Hither/URLWeb/BackURL.h \

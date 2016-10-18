@@ -6,7 +6,11 @@
 	<dict>
 		<key>Resources/Empty3.nib</key>
 		<data>
-		CJE/QWnwO/XJrxFjsr7h6hmQpj0=
+		JzinC6YRi3+ZpCYa/8KmHQwwWIA=
+		</data>
+		<key>Resources/FormController.nib</key>
+		<data>
+		RYeTDWaBOJlNTVcCaZkG/LQnR2g=
 		</data>
 		<key>Resources/Gare.png</key>
 		<data>
@@ -35,6 +39,10 @@
 		<key>Resources/New Tab copy2.htm</key>
 		<data>
 		8jODf2b6+epsw/C3aceMKh9Wf60=
+		</data>
+		<key>Resources/PasswordSave.nib</key>
+		<data>
+		qXCDzYrs5q7LdQbCGDIRZMsgrkI=
 		</data>
 		<key>Resources/Screen Shot 2016-08-13 at 10.17.22 AM.png</key>
 		<data>
@@ -131,11 +139,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CJE/QWnwO/XJrxFjsr7h6hmQpj0=
+			JzinC6YRi3+ZpCYa/8KmHQwwWIA=
 			</data>
 			<key>hash2</key>
 			<data>
-			lmylofgdr/AXvR2crifDCiZlZ8y6dsnuVQd6GZJr9kc=
+			vFQYig0BjWaRCpGDaQ4N1xv3hbVpG05YtoRS7MI+BXE=
+			</data>
+		</dict>
+		<key>Resources/FormController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RYeTDWaBOJlNTVcCaZkG/LQnR2g=
+			</data>
+			<key>hash2</key>
+			<data>
+			qEPCzYvLqaAFWAYlKzFWbVnZRtYgYedJpiM+/4SBMEU=
 			</data>
 		</dict>
 		<key>Resources/Gare.png</key>
@@ -213,6 +232,17 @@
 			<key>hash2</key>
 			<data>
 			7fVP/n8SfuLEfOe22FxMO0ISOy0jFkIQvDXGucNmAZw=
+			</data>
+		</dict>
+		<key>Resources/PasswordSave.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qXCDzYrs5q7LdQbCGDIRZMsgrkI=
+			</data>
+			<key>hash2</key>
+			<data>
+			8wk/zBdfZZ4d8S488c8LzzfGrXpjupAxByJDWL+iggQ=
 			</data>
 		</dict>
 		<key>Resources/Screen Shot 2016-08-13 at 10.17.22 AM.png</key>

@@ -5,9 +5,9 @@
 	<key>HTML Hither com</key>
 	<string>&lt;!-------HITHER------&gt;</string>
 	<key>HTML Hither com replace</key>
-	<string>&lt;!--LAST--&gt;&lt;li&gt;&lt;img src=&quot;img/%@&quot; alt=&quot;heather&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; - - - - - - %@ - - - - - - - -&lt;em&gt; %@&lt;/em&gt;&lt;/li&gt;&lt;!--LASTEND--&gt; &lt;!-------HITHER------&gt;</string>
+	<string>&lt;!--LAST--&gt;&lt;li&gt;&lt;img src=&quot;img/%@&quot; alt=&quot;heather&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; - - - - - - &lt;a href=&quot;%@&quot; target=&quot;_blank&quot;&gt;%@&lt;/a&gt; - - - - - - - -&lt;em&gt;&lt;a href=&quot;%@&quot;&gt;%@&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;!--LASTEND--&gt; &lt;!-------HITHER------&gt;</string>
 	<key>HTML Hither com replacelight</key>
-	<string>&lt;!--LAST--&gt;&lt;li&gt;&lt;img src=&quot;img/NoTest.png&quot; alt=&quot;heather&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; - - - - - - %@ - - - - - - - -&lt;em&gt; %@&lt;/em&gt;&lt;/li&gt;&lt;!--LASTEND--&gt; &lt;!-------HITHER------&gt;</string>
+	<string>&lt;!--LAST--&gt;&lt;li&gt;&lt;img src=&quot;img/NoTest.png&quot; alt=&quot;heather&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; - - - - - - %@ - - - - - - - -&lt;em&gt;&lt;a href=&quot;%@&quot;&gt;google&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;!--LASTEND--&gt; &lt;!-------HITHER------&gt;</string>
 	<key>historypage.html</key>
 	<string>&lt;!doctype html&gt;
 &lt;html&gt;
@@ -114,7 +114,7 @@
 	&lt;div class=&quot;container hither-lg&quot;&gt;
 		&lt;div class=&quot;row&quot;&gt;
 			&lt;div class=&quot;col-sm-12&quot;&gt;
-				&lt;img src=&quot;img/Hither%20Icon%20copy.png&quot; class=&quot;pull-right&quot; width=&quot;86&quot; height=&quot;86&quot; alt=&quot;Hithe&quot; /&gt;&lt;a href=&quot;http://au.search.yahoo.com&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Yahoo! Search&lt;/a&gt;&lt;a href=&quot;http://www.bing.com&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Bing&lt;/a&gt;&lt;a href=&quot;index.html&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Button&lt;/a&gt;&lt;a href=&quot;http://www.google.com&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Google&lt;/a&gt;
+				&lt;img src=&quot;img/Hither%20Icon%20copy.png&quot; class=&quot;pull-right&quot; width=&quot;86&quot; height=&quot;86&quot; alt=&quot;Hither&quot; /&gt;&lt;a href=&quot;http://search.yahoo.com&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Yahoo! Search&lt;/a&gt;&lt;a href=&quot;http://www.bing.com&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Bing&lt;/a&gt;&lt;a href=&quot;index.html&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Button&lt;/a&gt;&lt;a href=&quot;http://www.google.com&quot; class=&quot;btn  btn-d  btn-lg&quot;&gt;Google&lt;/a&gt;
 				&lt;h3 class=&quot;mg-md&quot;&gt;
 					WELCOME TO HITHER!
 				&lt;/h3&gt;
@@ -122,7 +122,7 @@
 					Hither is a web browser that is still in development. Please mind that there are bugs.
 				&lt;/p&gt;&lt;a href=&quot;settings.html&quot; class=&quot;btn  btn-d   btn-rd btn-lg pull-left&quot;&gt;Settings&lt;/a&gt;&lt;a href=&quot;historypage.html&quot; class=&quot;btn  btn-d  btn-lg  btn-rd&quot;&gt;History&lt;/a&gt;
 				
-					&lt;button onclick=&quot;Calc()&quot;&gt; ClickMe &lt;/button&gt; 
+					&lt;button onclick=&quot;Calc()&quot;&gt; ClickMe &lt;/button&gt; &lt;a href=&quot;index.html&quot; target=&quot;_blank&quot;&gt;New Tab Test&lt;/a&gt;
 
 &lt;script type=&quot;text/javascript&quot;&gt;
 function Calc() {
