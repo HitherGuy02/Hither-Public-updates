@@ -41,3 +41,11 @@ It would have:
  - Button
  - Textfield
  - View
+
+## Syntax
+The `window.webEl` is the script object.
+`window.webEl.openWindowWithContents_("")` is the method.
+When you want to make a new object, unless it is the first one (eg `window.webEl.openWindowWithContents_("Textfield..0,,0,,200,,20!!qwertyuiop~~yes")`),  then use `//`, the exception to this is if you are adding an object inside a view where you would then use `**`.
+For the class `Button`, `Textfield`,etc, etc, immediately preced it with `..`, eg `Textfield..`, the exception to this is if you are adding an object inside a view where you would precede it with `$$`.
+For the measurements, you would use `,,` to seperate them in the order x, y, width, height, the exception to this is if you are adding an object inside a view where you would then use `@@` instead of `,,`.
+If you want to add extras, then use `!!`, the exception to this is if you are adding an object inside a view where you would then use `--`.
