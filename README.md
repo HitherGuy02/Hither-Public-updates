@@ -34,6 +34,9 @@ It would have:
  - tell it to end (`//`)
  - a button (`Button..`) with the measurements (x = 30, y = 30, width = 30, height = 30) (`30,,30,,30,,30`) with no title (`!!`)
 
+It should look like:
+![Hither HTML Special Content](http://www.files.com/shared/580891338955c/Window.png)
+
 ***The measurements are in pixels.***
 
 ##Supported Types ***(Case Sensitive)***
