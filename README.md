@@ -49,7 +49,45 @@ It should look like:
 The `window.webEl` is the script object.
 `window.webEl.openWindowWithContents_("")` is the method.
 When you want to make a new object, unless it is the first one (eg `window.webEl.openWindowWithContents_("Textfield..0,,0,,200,,20!!qwertyuiop~~yes")`),  then use `//`, the exception to this is if you are adding an object inside a view where you would then use `**`. If there are no extras on an object, then use `!!//` or `--**` accordingly.
-For the class `Button`, `Textfield`,etc, etc, immediately preced it with `..`, eg `Textfield..`, the exception to this is if you are adding an object inside a view where you would precede it with `$$`.
+For the class `Button`, `Textfield`, etc, etc, immediately precede it with `..`, eg `Textfield..`, the exception to this is if you are adding an object inside a view where you would precede it with `$$`.
 For the measurements, you would use `,,` to seperate them in the order x, y, width, height, the exception to this is if you are adding an object inside a view where you would then use `@@` instead of `,,`.
 If you want to add extras, then use `!!`, the exception to this is if you are adding an object inside a view where you would then use `--`.
-If you want to access the object using `window._ObjectHere_`, then you would use the class with the frame behind it, eg `Textfield0020020` for `Textfield..0,,0,,200,,20`
+
+## Accessing the created objects
+If you want to access the object using `window._ObjectHere_`, then you would use the class with the frame behind it, eg `window.Textfield0020020` for `Textfield..0,,0,,200,,20`.
+If you want to get the URL from a created Webview, use:
+```html
+<script>
+var variable = window.webEl;
+var variable2 = variable.openWindowWithContents_("Webview..xValue,,yValue,,width,,height!!URL"); // variable.openWindowWithContents_("Webview..0,,0,,34,,34!!www.google.com")
+var variable3 = window.WebviewxValueyValuewidthheight; // window.Webview003434
+var URL = variable3.url_();
+</script>
+```
+To get the value of a created Textfield, use:
+```html
+<script>
+var variable = window.webEl;
+var variable2 = variable.openWindowWithContents_("Textfield..xValue,,yValue,,width,,height!!TEXT~~EDITABLE"); // variable.openWindowWithContents_("Textfield..0,,0,,200,,60!!Hello there~~no")
+var variable3 = window.TextfieldxValueyValuewidthheight; // window.Textfield0020060
+var textOfTextfield = variable3.value_();
+</script>
+```
+To set the value of a created Textfield, use:
+```html
+<script>
+var variable = window.webEl;
+var variable2 = variable.openWindowWithContents_("Textfield..xValue,,yValue,,width,,height!!TEXT~~EDITABLE"); // variable.openWindowWithContents_("Textfield..0,,0,,200,,60!!Hello there~~no")
+var variable3 = window.TextfieldxValueyValuewidthheight; // window.Textfield0020060
+var textOfTextfield = variable3.setValue_("TEXT TO SET");
+</script>
+```
+To get the title of a created Button, use:
+```html
+<script>
+var variable = window.webEl;
+var variable2 = variable.openWindowWithContents_("Button..xValue,,yValue,,width,,height!!TITLE"); // variable.openWindowWithContents_("Button..0,,34,,202,,30!!Click Here")
+var variable3 = window.ButtonxValueyValuewidthheight; // window.Button03420230
+var titleOfButton = variable3.value_();
+</script>
+```
