@@ -8,6 +8,7 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tabby.m \
   /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegatePrivate.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WebScript.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebHistoryDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
@@ -18,6 +19,7 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tabby.m \
   /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
   /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h \
   /Users/sterling/Desktop/Hither/URLWeb/PasswordSave.h \
+  /Users/sterling/Desktop/Hither/URLWeb/AuthWin.h \
   /Users/sterling/Desktop/Hither/URLWeb/SourceButton.h \
   /Users/sterling/Desktop/Hither/URLWeb/HideTab.h \
   /Users/sterling/Desktop/Hither/URLFunctions.framework/Modules/module.modulemap \
@@ -26,6 +28,7 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/Tabby.m \
   /Users/sterling/Desktop/Hither/URLWeb/TabView.h \
   /Users/sterling/Desktop/Hither/URLWeb/Connector.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDView.h \
+  /Users/sterling/Desktop/Hither/URLWeb/Image.h \
   /Users/sterling/Desktop/Hither/URLWeb/Tabb.h \
   /Users/sterling/Desktop/Hither/URLWeb/BackURL.h \
   /Users/sterling/Desktop/Hither/URLWeb/SearchURLField.h \

@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/AuthWin.nib</key>
+		<data>
+		ZJ5rBXNGcYW+6F/imI0QrQ+YiOA=
+		</data>
 		<key>Resources/Empty3.nib</key>
 		<data>
-		JzinC6YRi3+ZpCYa/8KmHQwwWIA=
+		ggFVLwdGwitRRg0hTUSo5/dO/2Y=
 		</data>
 		<key>Resources/FormController.nib</key>
 		<data>
@@ -30,7 +34,7 @@
 		</data>
 		<key>Resources/Javascript.nib</key>
 		<data>
-		UvCrX56lmtetyTIFPqugddWKans=
+		okU8jc/KYnev4ldaUplePQ212O8=
 		</data>
 		<key>Resources/MyPlist.plist</key>
 		<data>
@@ -55,6 +59,10 @@
 		<key>Resources/WebBrowser.plist</key>
 		<data>
 		kBgtZYrYq45G5SWE+ax3rlq86Vc=
+		</data>
+		<key>Resources/WebScript.nib</key>
+		<data>
+		htodkP/ooXYRePaA7xbutwXSL4c=
 		</data>
 		<key>Resources/css/bootstrap.min.css</key>
 		<data>
@@ -135,15 +143,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/AuthWin.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZJ5rBXNGcYW+6F/imI0QrQ+YiOA=
+			</data>
+			<key>hash2</key>
+			<data>
+			niekQDW+oNg6hx27CdSRcL08hcfpXnmmR7pvYR5Cb2E=
+			</data>
+		</dict>
 		<key>Resources/Empty3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JzinC6YRi3+ZpCYa/8KmHQwwWIA=
+			ggFVLwdGwitRRg0hTUSo5/dO/2Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			vFQYig0BjWaRCpGDaQ4N1xv3hbVpG05YtoRS7MI+BXE=
+			+Y4lgKUzX8r8t7g2TBJNlRAO4bPmmHYEZ72+36RUuxE=
 			</data>
 		</dict>
 		<key>Resources/FormController.nib</key>
@@ -205,11 +224,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UvCrX56lmtetyTIFPqugddWKans=
+			okU8jc/KYnev4ldaUplePQ212O8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lZ6lTIl3BITgJpZfoZDbkS5kg4B42bxtdQF0idwEayQ=
+			Lu1b+FjPBAnKNagbejojWPHTA4DRBA4SnAWUdZD42DU=
 			</data>
 		</dict>
 		<key>Resources/MyPlist.plist</key>
@@ -276,6 +295,17 @@
 			<key>hash2</key>
 			<data>
 			O3daB6NaSSuo9G6xWGqpg1Bh/e8n0KHbQLqAxH+bZpA=
+			</data>
+		</dict>
+		<key>Resources/WebScript.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			htodkP/ooXYRePaA7xbutwXSL4c=
+			</data>
+			<key>hash2</key>
+			<data>
+			KapcJ3/WRVIwDsG7Iw96Qu3mZrIoQV/ouBOrzH/FBfc=
 			</data>
 		</dict>
 		<key>Resources/css/bootstrap.min.css</key>

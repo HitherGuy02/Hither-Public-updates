@@ -18,4 +18,6 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/IconDownload.m \
   /Users/sterling/Desktop/Hither/URLWeb/URLWebView2.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegatePrivate.h \
-  /Users/sterling/Desktop/Hither/URLWeb/PasswordSave.h
+  /Users/sterling/Desktop/Hither/URLWeb/WebScript.h \
+  /Users/sterling/Desktop/Hither/URLWeb/PasswordSave.h \
+  /Users/sterling/Desktop/Hither/URLWeb/AuthWin.h

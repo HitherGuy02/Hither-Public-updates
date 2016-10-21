@@ -7,6 +7,7 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/WindowConr.m \
   /Users/sterling/Desktop/Hither/URLWeb/BGView.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebFormDelegatePrivate.h \
+  /Users/sterling/Desktop/Hither/URLWeb/WebScript.h \
   /Users/sterling/Desktop/Hither/URLWeb/WebHistoryDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/URLDelegate.h \
   /Users/sterling/Desktop/Hither/URLWeb/UUIDTab.h \
@@ -16,4 +17,5 @@ dependencies: /Users/sterling/Desktop/Hither/URLWeb/WindowConr.m \
   /Users/sterling/Desktop/Hither/URLWeb/LinkView.h \
   /Users/sterling/Desktop/Hither/URLWeb/Scroll.h \
   /Users/sterling/Desktop/Hither/URLWeb/InfoMan.h \
-  /Users/sterling/Desktop/Hither/URLWeb/PasswordSave.h
+  /Users/sterling/Desktop/Hither/URLWeb/PasswordSave.h \
+  /Users/sterling/Desktop/Hither/URLWeb/AuthWin.h
