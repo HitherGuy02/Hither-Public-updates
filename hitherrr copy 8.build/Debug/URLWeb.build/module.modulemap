@@ -1,6 +1,0 @@
-framework module URLWeb {
-  umbrella header "URLWeb.h"
-
-  export *
-  module * { export * }
-}
