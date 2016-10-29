@@ -14,17 +14,21 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		iCeBuY1IH5P3SvMQRDnBS5AcjeU=
+		MkK/7d/mW8Ptm//T9YuxY4stO/o=
 		</data>
 		<key>Resources/Ba1ck.png</key>
 		<data>
 		V1G0mtvrtjS0cGE2TTseeJg7YXo=
 		</data>
+		<key>Resources/Backward.png</key>
+		<data>
+		uavX/AGt9n9AGDHnBSae9Eqejf0=
+		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/1aD-kx-uaN-view-SKw-xX-Qw2.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YDtrGE7zy8EJtp/LHsU2BLOKtzs=
+			8SqPQDfVHI5VQWYp8/iroqzW+5A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -33,7 +37,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/dKqLGCehQESD/3a4IqiC9yGy9Y=
+			CHk/yyx7rkjpJRh8w+ZpQRy9bt4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -42,7 +46,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d8KUiB9vZy8VljwRyhN7pxYiRgw=
+			E8AX5nfruEd9Jq3YKLVz0LlFzEM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -51,7 +55,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2NX/J2B4EJdjAIhOlYWFrrJhIbs=
+			X5Cp/0wllIgsBci2gwJHPHHQJhQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -60,7 +64,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k1fELX0dZqrgvm95YewpnSxK+3A=
+			F9FBwK4caIdLdgkzf/9gxgiR5uc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -69,7 +73,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LtjCJ5X50+KJmNweGUC2bg/Q7ec=
+			bgIfke2SGYYggRxBLBttufsQQn4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -78,7 +82,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R934iVKg1OHqppxcWHp/4K2PDKg=
+			8HyhABDfbvH57+xzK+7aTjDi838=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -87,7 +91,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PUp429tY5j8pwkY8QiWIgxZVcWs=
+			eLzpvXwUZqBC6dhFx+OmXfV3qhk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -96,7 +100,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7djPpvVEwaja0qtMmIlgTLb0PLU=
+			ls9MUXYeiSbzeR0k3pmjRaqrcI4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -105,7 +109,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+wAx9rHWBE7tPDLVKOezQEKD3G4=
+			scVw61X4HHGhXzFuNHNVtaFsxLc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -114,11 +118,15 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			51ds1qGGtujaoETpa2/g2a050rA=
+			ExBjMmV+KCj9Plj2tirANCC8P0M=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/Close2.png</key>
+		<data>
+		N0O2LfWUYC7Y7IafHyKNpt+4duM=
+		</data>
 		<key>Resources/DarkAppearance.car</key>
 		<data>
 		5fFY4QcjIzOPiAvdkCBwI8EQeeI=
@@ -141,7 +149,7 @@
 		</data>
 		<key>Resources/Empty2.nib</key>
 		<data>
-		AaDaWn4CY+AIBGvtLZ98fmFog0w=
+		NZ+6mx0J0HN3NQLOr2tZuQVTq3o=
 		</data>
 		<key>Resources/Empty3.nib</key>
 		<data>
@@ -151,13 +159,17 @@
 		<data>
 		qsd77V4aJn8TqyJYjVw7n/awydY=
 		</data>
+		<key>Resources/Forward.png</key>
+		<data>
+		JJQN14lf/EY4coUYKB6omEa06tE=
+		</data>
 		<key>Resources/HITHERHTM1L.png</key>
 		<data>
 		Cv06WxOxinmKc4fcEIGxRrR5oZA=
 		</data>
 		<key>Resources/HTML Types.plist</key>
 		<data>
-		RutD/p1FQor99NykVVuFervtfvM=
+		YhxtBGI79OHZA2vQTAu9wRnNKoc=
 		</data>
 		<key>Resources/HTMLSource.txt</key>
 		<data>
@@ -214,6 +226,10 @@
 		<key>Resources/Reload.png</key>
 		<data>
 		7xljVxWL1N5JHvBMNzcHafyoQaw=
+		</data>
+		<key>Resources/Reload2.png</key>
+		<data>
+		9ApiZnAx3RH3dhQ1J8j0cK5EZbo=
 		</data>
 		<key>Resources/Screen Shot 2016-08-13 at 10.17.22 AM.png</key>
 		<data>
@@ -367,7 +383,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Iz2iNi6ItYyUxziuoCjHJ+5m+98=
+			pLvT4xqNoQg6vEhefPuL9EeM9b8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.Hither.URLFunctions" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: awesomesunni421@gmail.com (2EK62Z33ZK)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -376,7 +392,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			F6MZIi1p+94uGwzTtjoypnYQ69k=
+			uFEGxBEEem0Ri3+17RTY7SO9Rqg=
 			</data>
 			<key>requirement</key>
 			<string>identifier "combybbb.URLWeb" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: awesomesunni421@gmail.com (2EK62Z33ZK)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -407,11 +423,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iCeBuY1IH5P3SvMQRDnBS5AcjeU=
+			MkK/7d/mW8Ptm//T9YuxY4stO/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			wUOZNosFHUC2Pbs2zABSS8JRzCl7B8rmKB0fUZsnlJc=
+			G55xEIGIBKErOZLdIGC7Ebiq6o/vkba/0hXdxhSa3DE=
 			</data>
 		</dict>
 		<key>Resources/Ba1ck.png</key>
@@ -425,15 +441,26 @@
 			ZlfVwb2EOzdDKmXGGJDvgIw1J+8kG/9GXJr6tey4zZ4=
 			</data>
 		</dict>
+		<key>Resources/Backward.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uavX/AGt9n9AGDHnBSae9Eqejf0=
+			</data>
+			<key>hash2</key>
+			<data>
+			6/HA9TZLTW4QlfMJxv3PkP+UWeqW+aGHaCh/8QwjOxI=
+			</data>
+		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/1aD-kx-uaN-view-SKw-xX-Qw2.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YDtrGE7zy8EJtp/LHsU2BLOKtzs=
+			8SqPQDfVHI5VQWYp8/iroqzW+5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			mC4G7/apTC4PmDoe+BTOx2zuWDtQSJn+028YiwyKQs0=
+			P95h2JmGDRVVr4+oOOVtKLrZmpkt69P1GixBF4ylBlw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -442,11 +469,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/dKqLGCehQESD/3a4IqiC9yGy9Y=
+			CHk/yyx7rkjpJRh8w+ZpQRy9bt4=
 			</data>
 			<key>hash2</key>
 			<data>
-			J7SglE2JgjzQwavH52MzwrRekpkBEmXitmhFftcXZdc=
+			MEhAu/VpY+NtfWAZN6QxyInplTOtYnV1YIKTlHA5t8U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -455,11 +482,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d8KUiB9vZy8VljwRyhN7pxYiRgw=
+			E8AX5nfruEd9Jq3YKLVz0LlFzEM=
 			</data>
 			<key>hash2</key>
 			<data>
-			yV9HWZJefDqmv3utOtF9/Ysir0Q9zdGZSlucFdpdFXQ=
+			EDIg1qj1PGUA/G/kMwqAxgKsWhLrX5CROjyOwSUZ0JE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -468,11 +495,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2NX/J2B4EJdjAIhOlYWFrrJhIbs=
+			X5Cp/0wllIgsBci2gwJHPHHQJhQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			PsiH7ZEHCAGM2A8/jHogQN9oF5RYRPsa5B+l038DAPk=
+			LQyoPCXn0gZ1vAyptUPtTCJXurpVJCjXpuyA7+N9s/U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -481,11 +508,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k1fELX0dZqrgvm95YewpnSxK+3A=
+			F9FBwK4caIdLdgkzf/9gxgiR5uc=
 			</data>
 			<key>hash2</key>
 			<data>
-			mZC1OgiG9e5zXocPWZY7n7lJsnq/n98s8gBUFHal+6M=
+			D9A18fOwmFmIQO8mfphRbwmptQUGpqwSAXLAXWPfXms=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -494,11 +521,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LtjCJ5X50+KJmNweGUC2bg/Q7ec=
+			bgIfke2SGYYggRxBLBttufsQQn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			snGHc6iP57wJgsEal2gIEErY8R2IvEh1Nuj6E9JdqCc=
+			MfDr58RUmWGm+ziV1+y4BacHAlCHVjp853EuMm8iT94=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -507,11 +534,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R934iVKg1OHqppxcWHp/4K2PDKg=
+			8HyhABDfbvH57+xzK+7aTjDi838=
 			</data>
 			<key>hash2</key>
 			<data>
-			eIoFt/aNulJyBNs0wBHn0HRdqi8ZxYoIK+sErq9GREs=
+			obHZMxLrVwPuQZaGbhwIeWi06a+fbe7X3xOmabdvmWQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -520,11 +547,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PUp429tY5j8pwkY8QiWIgxZVcWs=
+			eLzpvXwUZqBC6dhFx+OmXfV3qhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			UIILOr1q4Yl542E00prirKv97rsK0R3RDyvVGW+fM5o=
+			GpRSTM14S1AHEyUYk/DywNgzkN483O06u9dlqGNNGt8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -533,11 +560,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7djPpvVEwaja0qtMmIlgTLb0PLU=
+			ls9MUXYeiSbzeR0k3pmjRaqrcI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xPt0UDYai75Fx3xQYe7ubBX3gdZk4sPWAJrHJTRgX9I=
+			8OyPSHoFBdvLI5eUsd2L3IdubHX7DDyQhQJ/HGDGOW8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -546,11 +573,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+wAx9rHWBE7tPDLVKOezQEKD3G4=
+			scVw61X4HHGhXzFuNHNVtaFsxLc=
 			</data>
 			<key>hash2</key>
 			<data>
-			icCo4QnDmmQBODQK74s1l0alFIJfL0AE/X1mJnsuGw4=
+			2VJSn4bkj+T5D1F5ixmLpn33uxjSNCEi8IADIPu2fMU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -559,14 +586,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			51ds1qGGtujaoETpa2/g2a050rA=
+			ExBjMmV+KCj9Plj2tirANCC8P0M=
 			</data>
 			<key>hash2</key>
 			<data>
-			5GKnYVeN1WSg/za1gN02d7ExKCK/i+84UtITFvz1LMM=
+			quglUlfOUKzHBpfgVW4Y6RdW4Ja4nj59qxIhWeW7O9Q=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Resources/Close2.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N0O2LfWUYC7Y7IafHyKNpt+4duM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7k7HrSvx7XfjCIAqpFlzTt5g/cBDybotXrDDtmwPm68=
+			</data>
 		</dict>
 		<key>Resources/DarkAppearance.car</key>
 		<dict>
@@ -627,11 +665,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AaDaWn4CY+AIBGvtLZ98fmFog0w=
+			NZ+6mx0J0HN3NQLOr2tZuQVTq3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			riiHrPRYVoJC41khSBRXNSS7igdvbyPF4qyJOWNpMUM=
+			L2gprhjyQPjFVI2Gdq95PenPUS0lvN3P4buGwcr0UBc=
 			</data>
 		</dict>
 		<key>Resources/Empty3.nib</key>
@@ -656,6 +694,17 @@
 			RsQde5/ql/Se4cPLLNW4IcWJ2JlSMEWlQhr03sleUnI=
 			</data>
 		</dict>
+		<key>Resources/Forward.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JJQN14lf/EY4coUYKB6omEa06tE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NWXsv9pBXQyseV+aBySsaE6CUbqvO9nFW9QKJC32gAI=
+			</data>
+		</dict>
 		<key>Resources/HITHERHTM1L.png</key>
 		<dict>
 			<key>hash</key>
@@ -671,11 +720,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RutD/p1FQor99NykVVuFervtfvM=
+			YhxtBGI79OHZA2vQTAu9wRnNKoc=
 			</data>
 			<key>hash2</key>
 			<data>
-			utastv41poODBhIvJAlBGNKirBL85IGy3qWpX7MPcM4=
+			63p5jn0HQ+6ds4QaOpQcVm2d2m8e7lU5DTeKDufOw4w=
 			</data>
 		</dict>
 		<key>Resources/HTMLSource.txt</key>
@@ -830,6 +879,17 @@
 			<key>hash2</key>
 			<data>
 			SDQhrqcSt8uqHIRov+5e2ORIx1KSXFccDKsMU2yCCTs=
+			</data>
+		</dict>
+		<key>Resources/Reload2.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9ApiZnAx3RH3dhQ1J8j0cK5EZbo=
+			</data>
+			<key>hash2</key>
+			<data>
+			FOXqTopu06jlxZp26D0KBOXwq7WwpLclwKXVNzMaKI4=
 			</data>
 		</dict>
 		<key>Resources/Screen Shot 2016-08-13 at 10.17.22 AM.png</key>

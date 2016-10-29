@@ -24,7 +24,7 @@
 	&lt;script src=&quot;./js/jquery-2.1.0.min.js&quot;&gt;&lt;/script&gt;
 	&lt;script src=&quot;./js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
 	&lt;script src=&quot;./js/hithers.min.js&quot;&gt;&lt;/script&gt;
-    &lt;title&gt;HistoryPage&lt;/title&gt;
+    &lt;title&gt;History&lt;/title&gt;
 
 		&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;
 		&lt;style type=&quot;text/css&quot;&gt;
@@ -9335,15 +9335,19 @@ return jQuery;
 						&lt;/h3&gt;
 					&lt;/div&gt;
 					&lt;div class=&quot;panel-body&quot;&gt;
-						&lt;p&gt;
-							Sorry, this is not implemented yet.
-						&lt;/p&gt;
+						&lt;a onclick=&quot;SetSearchEngine()&quot;&gt;Set Search Engine&lt;/a&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    function SetSearchEngine() {
+        var t = window.webEl.openSearchContext_();
+        
+    };
+&lt;/script&gt;
 &lt;!-- hither-1 END --&gt;
 
 &lt;!-- ScrollToTop Button --&gt;
@@ -9373,7 +9377,7 @@ return jQuery;
 	&lt;script src=&quot;./js/jquery-2.1.0.min.js&quot;&gt;&lt;/script&gt;
 	&lt;script src=&quot;./js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
 	&lt;script src=&quot;./js/hithers.min.js&quot;&gt;&lt;/script&gt;
-    &lt;title&gt;NSErrorFailingURLStringKey error&lt;/title&gt;
+    &lt;title&gt;Internet error&lt;/title&gt;
 
     
 &lt;!-- Google Analytics --&gt;
@@ -10037,7 +10041,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	&lt;script src=&quot;./js/jquery-2.1.0.min.js&quot;&gt;&lt;/script&gt;
 	&lt;script src=&quot;./js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
 	&lt;script src=&quot;./js/hithers.min.js&quot;&gt;&lt;/script&gt;
-    &lt;title&gt;clear.php&lt;/title&gt;
+    &lt;title&gt;&lt;/title&gt;
 
     
 &lt;!-- Google Analytics --&gt;
