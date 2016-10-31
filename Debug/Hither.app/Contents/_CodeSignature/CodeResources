@@ -169,7 +169,7 @@
 		</data>
 		<key>Resources/HTML Types.plist</key>
 		<data>
-		YhxtBGI79OHZA2vQTAu9wRnNKoc=
+		dI2q+AENrE0qMpH/+dLI2MkjhxI=
 		</data>
 		<key>Resources/HTMLSource.txt</key>
 		<data>
@@ -379,6 +379,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/Hither Updater</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			gPM9WZw3NEGbW8M73a9giy0dZbw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "Hither Updater-5555494496ccad60cdf032fa9ce6434cb9e90d90" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: awesomesunni421@gmail.com (2EK62Z33ZK)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
 		<key>Frameworks/URLFunctions.framework</key>
 		<dict>
 			<key>cdhash</key>
@@ -392,7 +401,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uFEGxBEEem0Ri3+17RTY7SO9Rqg=
+			v1j7awhE2158+O+8KSm+PyZl0Jw=
 			</data>
 			<key>requirement</key>
 			<string>identifier "combybbb.URLWeb" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: awesomesunni421@gmail.com (2EK62Z33ZK)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -720,11 +729,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YhxtBGI79OHZA2vQTAu9wRnNKoc=
+			dI2q+AENrE0qMpH/+dLI2MkjhxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			63p5jn0HQ+6ds4QaOpQcVm2d2m8e7lU5DTeKDufOw4w=
+			aSJrMEnbX+Tp8KvPodzvHVHF+z0mH45YttwBQFCn5ew=
 			</data>
 		</dict>
 		<key>Resources/HTMLSource.txt</key>

@@ -9336,6 +9336,15 @@ return jQuery;
 					&lt;/div&gt;
 					&lt;div class=&quot;panel-body&quot;&gt;
 						&lt;a onclick=&quot;SetSearchEngine()&quot;&gt;Set Search Engine&lt;/a&gt;
+                        &lt;div&gt;
+                            &lt;a onclick=&quot;SetImageNew()&quot;&gt;Set &quot;Open Image in New Tab&quot; Option&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div&gt;
+                            &lt;a onclick=&quot;SetTopColor()&quot;&gt;Set Background&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div&gt;
+                            &lt;a onclick=&quot;SetAutoUpdate()&quot;&gt;Set Background&lt;/a&gt;
+                        &lt;/div&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
@@ -9343,10 +9352,23 @@ return jQuery;
 	&lt;/div&gt;
 &lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
+    
     function SetSearchEngine() {
         var t = window.webEl.openSearchContext_();
         
     };
+function SetImageNew() {
+    var t = window.webEl.setOpenImageNewTab_();
+    
+};
+function SetTopColor() {
+    var t = window.webEl.setTopColor_();
+    
+};
+function SetAutoUpdate() {
+    var t = window.webEl.setAutoUpdate_();
+    
+};
 &lt;/script&gt;
 &lt;!-- hither-1 END --&gt;
 
