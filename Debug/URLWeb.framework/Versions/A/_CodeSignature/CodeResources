@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/AuthWin.nib</key>
 		<data>
-		ZJ5rBXNGcYW+6F/imI0QrQ+YiOA=
+		ZYjaJcIMzklxZo+NmN3FUV4zOtA=
 		</data>
 		<key>Resources/Backward.png</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Empty3.nib</key>
 		<data>
-		ggFVLwdGwitRRg0hTUSo5/dO/2Y=
+		CfaBoktWzMejiT2JCCipeHktk20=
 		</data>
 		<key>Resources/FormController.nib</key>
 		<data>
@@ -38,15 +38,19 @@
 		</data>
 		<key>Resources/ImageDown.nib</key>
 		<data>
-		davCFJEpfrZ8FAkp9sZU4fLbXXY=
+		UH4TBM58kOi0a+fa82owJ7fOkMo=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		MZ31kIQJDIhuHg3U+jkpPMLKT6I=
+		WSiYpAGVTiKNMp4XDk9apk+cZ78=
+		</data>
+		<key>Resources/Java.nib</key>
+		<data>
+		YnUvnAf0V8zrsbjnBGOqp2ht0kQ=
 		</data>
 		<key>Resources/Javascript.nib</key>
 		<data>
-		okU8jc/KYnev4ldaUplePQ212O8=
+		039DDPSNiD3SxOMlSI7MR68E4nM=
 		</data>
 		<key>Resources/MyPlist.plist</key>
 		<data>
@@ -58,7 +62,7 @@
 		</data>
 		<key>Resources/PasswordSave.nib</key>
 		<data>
-		qXCDzYrs5q7LdQbCGDIRZMsgrkI=
+		PfIQL5NdyJNZ1msrBTqwKgnwjMA=
 		</data>
 		<key>Resources/Reload2.png</key>
 		<data>
@@ -74,7 +78,7 @@
 		</data>
 		<key>Resources/TopColorView.nib</key>
 		<data>
-		kAWY20PHKmRqrKuCO3VWgPoJWl0=
+		T+PqatmT60CZ/N1LDyedGm1983E=
 		</data>
 		<key>Resources/WebBrowser.plist</key>
 		<data>
@@ -82,7 +86,7 @@
 		</data>
 		<key>Resources/WebScript.nib</key>
 		<data>
-		htodkP/ooXYRePaA7xbutwXSL4c=
+		YlUBHxefs+Tot2GrRqMec3cxOW4=
 		</data>
 		<key>Resources/css/bootstrap.min.css</key>
 		<data>
@@ -178,11 +182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZJ5rBXNGcYW+6F/imI0QrQ+YiOA=
+			ZYjaJcIMzklxZo+NmN3FUV4zOtA=
 			</data>
 			<key>hash2</key>
 			<data>
-			niekQDW+oNg6hx27CdSRcL08hcfpXnmmR7pvYR5Cb2E=
+			gsyiV9jXe98nr2PP34M53zI95utcDTtXH6yeLcYNB+s=
 			</data>
 		</dict>
 		<key>Resources/Backward.png</key>
@@ -211,11 +215,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ggFVLwdGwitRRg0hTUSo5/dO/2Y=
+			CfaBoktWzMejiT2JCCipeHktk20=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Y4lgKUzX8r8t7g2TBJNlRAO4bPmmHYEZ72+36RUuxE=
+			70S/GeUi70c+53FuMQA6CPl1g6YLRR3zYrbLLzgpnvg=
 			</data>
 		</dict>
 		<key>Resources/FormController.nib</key>
@@ -266,33 +270,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			davCFJEpfrZ8FAkp9sZU4fLbXXY=
+			UH4TBM58kOi0a+fa82owJ7fOkMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			1MgQ4PhpRsLfpBmwU/G480/jWvmTcZbs4x8AfmtIG04=
+			m7pxhNtIjP99wDpc2h2SY2fbFJrvagySz1iWJONTb7U=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MZ31kIQJDIhuHg3U+jkpPMLKT6I=
+			WSiYpAGVTiKNMp4XDk9apk+cZ78=
 			</data>
 			<key>hash2</key>
 			<data>
-			kfrylGqjWYJ0Rdp9ARI7LOyWW/UK3cYel9INa8djDuw=
+			pHCaf5oswE04rqbSVXWhvSKDlGJsW5Yk+6l2CB4l7IA=
+			</data>
+		</dict>
+		<key>Resources/Java.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YnUvnAf0V8zrsbjnBGOqp2ht0kQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			AFPjnvZhxEedxCOcZmQ8kt9kgGLF1lPi4aRvSYCFhl8=
 			</data>
 		</dict>
 		<key>Resources/Javascript.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			okU8jc/KYnev4ldaUplePQ212O8=
+			039DDPSNiD3SxOMlSI7MR68E4nM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lu1b+FjPBAnKNagbejojWPHTA4DRBA4SnAWUdZD42DU=
+			juBgyvXbIXlXmmQ5FLLhsjycaYmjDdoK2/RH1xR+npQ=
 			</data>
 		</dict>
 		<key>Resources/MyPlist.plist</key>
@@ -321,11 +336,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qXCDzYrs5q7LdQbCGDIRZMsgrkI=
+			PfIQL5NdyJNZ1msrBTqwKgnwjMA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8wk/zBdfZZ4d8S488c8LzzfGrXpjupAxByJDWL+iggQ=
+			nd3+ZQ2yGHqOIXTAVECgLzOWoA2vy7gB+n7181x6C6U=
 			</data>
 		</dict>
 		<key>Resources/Reload2.png</key>
@@ -365,11 +380,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kAWY20PHKmRqrKuCO3VWgPoJWl0=
+			T+PqatmT60CZ/N1LDyedGm1983E=
 			</data>
 			<key>hash2</key>
 			<data>
-			BCxamhVDhvGu45Y2s+TXMn7O7R/LDADkSPDB0fSoOJI=
+			uWXhaApzF7b9lSR1ZAc5hvL97nhRwa8FFHa+V/CUi6A=
 			</data>
 		</dict>
 		<key>Resources/WebBrowser.plist</key>
@@ -387,11 +402,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			htodkP/ooXYRePaA7xbutwXSL4c=
+			YlUBHxefs+Tot2GrRqMec3cxOW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KapcJ3/WRVIwDsG7Iw96Qu3mZrIoQV/ouBOrzH/FBfc=
+			limVKAyb+V5AvwVOBCZldqVQPmY2lHQM7da8xXGb/B8=
 			</data>
 		</dict>
 		<key>Resources/css/bootstrap.min.css</key>

@@ -9343,7 +9343,7 @@ return jQuery;
                             &lt;a onclick=&quot;SetTopColor()&quot;&gt;Set Background&lt;/a&gt;
                         &lt;/div&gt;
                         &lt;div&gt;
-                            &lt;a onclick=&quot;SetAutoUpdate()&quot;&gt;Set Background&lt;/a&gt;
+                            &lt;a onclick=&quot;SetAutoUpdate()&quot;&gt;Set Auto Updating&lt;/a&gt;
                         &lt;/div&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
