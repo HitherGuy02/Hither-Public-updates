@@ -4,3 +4,7 @@ framework module URLWeb {
   export *
   module * { export * }
 }
+
+module URLWeb.Swift {
+    header "URLWeb-Swift.h"
+}

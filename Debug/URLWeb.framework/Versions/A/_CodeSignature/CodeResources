@@ -167,15 +167,70 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/Headers.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xWd9AO7vDuuyLdB9AMdy5PasdUE=
+			</data>
+			<key>hash2</key>
+			<data>
+			9TX21tHfugtwpIR7rOkF1JW9Ts1KfU/zwKj7cL7eZCU=
+			</data>
+		</dict>
+		<key>Headers/URLWeb-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xdGV6y7g7JxExjKmnkMj4DF9tlo=
+			</data>
+			<key>hash2</key>
+			<data>
+			JknOEWPQw5rITehbZtubGElw59+hVDaUEmHZfOn0OGk=
+			</data>
+		</dict>
+		<key>Headers/URLWeb.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OFS0915gmcUhflOqRM8xzkDGzaI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Fnr9BLLeENTBTfPDnORRqxhuIeWXICak1Y+4jsdoCoQ=
+			</data>
+		</dict>
+		<key>Modules/URLWeb.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TZvJQ+AZ1sW7B2QjFAf3+WxntQs=
+			</data>
+			<key>hash2</key>
+			<data>
+			M7a0/ZmB3lNt0KyhIYGOxWV28UBtRxOTfShaHfVUFw8=
+			</data>
+		</dict>
+		<key>Modules/URLWeb.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QPFGsUAGjAL0TfmqJygaTPfFhaM=
+			</data>
+			<key>hash2</key>
+			<data>
+			8IxPsL6zKFpgiy5XpCdTdUMM4KoJBWSgQnsKwq+/364=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wOWTuxzOXMkYOEVXvgQ/tUzc+F4=
+			OJk3Q6Wg4X5fnR76e0eFaaFQ7gY=
 			</data>
 			<key>hash2</key>
 			<data>
-			LEScOPJ/SI7lu1AHx3mmXkRm3ZETSVhnKrtfEIDwU5I=
+			24eQO2aJaOq3VqpOddiihKIqu42/Xx5Fnzhr1whwl7E=
 			</data>
 		</dict>
 		<key>Resources/AuthWin.nib</key>

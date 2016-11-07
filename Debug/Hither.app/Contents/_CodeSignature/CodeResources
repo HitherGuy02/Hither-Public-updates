@@ -14,7 +14,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		LsVpzJPOz44uehcXK57EiO4XVCo=
+		OpsLwzbfKzE27EM5GOgFV+2PxYU=
 		</data>
 		<key>Resources/Ba1ck.png</key>
 		<data>
@@ -145,7 +145,7 @@
 		</data>
 		<key>Resources/Empty.nib</key>
 		<data>
-		o6SnZWiVQnbUNtS3LRYV85iGUqk=
+		xFpQf+RctRFe/9atCcl6jViMmu8=
 		</data>
 		<key>Resources/Empty2.nib</key>
 		<data>
@@ -177,7 +177,7 @@
 		</data>
 		<key>Resources/HTMY.txt</key>
 		<data>
-		jFgtZ5i6W/OIoxzgNVn7hquswRw=
+		Ah7oDn5U5iP9PygNmaftdHvE4MA=
 		</data>
 		<key>Resources/HithTXT.png</key>
 		<data>
@@ -360,6 +360,10 @@
 		<data>
 		6sR5huoI7Rmp0+WyslgtiYgeb58=
 		</data>
+		<key>Resources/libswiftRemoteMirror.dylib</key>
+		<data>
+		GACfJVnV/01/bFtw7YlPG/bIhx0=
+		</data>
 		<key>Resources/neq.car</key>
 		<data>
 		2l4l/pr+DXJE/fY0LMNDx00ZfdE=
@@ -401,10 +405,118 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			p3KAwO46FBRaSSqH0ygHtlOG87Y=
+			ExZUt3qpgZaO0kyybmVBJrHw03I=
 			</data>
 			<key>requirement</key>
 			<string>identifier "combybbb.URLWeb" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftAppKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1tFaYiGrQK5tUMULgUpYlBfRCeI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftAppKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pJGJoX5lfc/+cgDLIynXR7EKx88=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftCoreData.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Z0kJITxd+tKzKI7uU8q+4AikTHc=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCoreData" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			WfqdhP/Lo9fQPw2Fn6DFkL3bpx0=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCoreGraphics" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			sNjkEe7GsonMzZmjMPCjNj8639E=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCoreImage" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yaG1aUZJgE5Ep2qnPi3aJ4sWki0=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftDarwin" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			w1KLjgp2R/X70OfcH0jYUxEi4bU=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftDispatch" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			PHbHckOZ4H3UKGKedyfkttf3hwo=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftFoundation" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftIOKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5xMmf4Ci1fnkGDCdSdjc3snhh1I=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftIOKit" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			nvfpAl5Cq+igpX8ObhQOLF0qklw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftObjectiveC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			bXXBqfZ4cfcVY0E/4KrlBNxrmQ0=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftQuartzCore" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftXPC.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			m5FMkK/wWK3maET4fbrSMzVw10A=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftXPC" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: sterlinggrace02@gmail.com (943QNH9C7A)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -432,11 +544,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LsVpzJPOz44uehcXK57EiO4XVCo=
+			OpsLwzbfKzE27EM5GOgFV+2PxYU=
 			</data>
 			<key>hash2</key>
 			<data>
-			mvkJ8GE8r2ZFyH7W9UcbnUnD1lz82+3Da0Z6RgMS2PE=
+			N5b7jrIjgz1FASiRt9URYeVNu04DSdHJNbIc/wouGj8=
 			</data>
 		</dict>
 		<key>Resources/Ba1ck.png</key>
@@ -663,11 +775,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o6SnZWiVQnbUNtS3LRYV85iGUqk=
+			xFpQf+RctRFe/9atCcl6jViMmu8=
 			</data>
 			<key>hash2</key>
 			<data>
-			yQl+X8UddppBJRBQJX0zZNiwdfCXPxpyZbayknqo2kg=
+			nQXbKMcfpKQFg0wE8woCHbV/SKs3cofA3a8asS4K/CA=
 			</data>
 		</dict>
 		<key>Resources/Empty2.nib</key>
@@ -751,11 +863,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jFgtZ5i6W/OIoxzgNVn7hquswRw=
+			Ah7oDn5U5iP9PygNmaftdHvE4MA=
 			</data>
 			<key>hash2</key>
 			<data>
-			el7SEeCCNKgJ+SImxRjUASuToC7h5bc2Xd98S+be34Y=
+			lPTbA2m5jLFbqwXCvCfrMb8NF7Y1k9ji0mxLxl4BYfA=
 			</data>
 		</dict>
 		<key>Resources/HithTXT.png</key>
@@ -1242,6 +1354,17 @@
 			<key>hash2</key>
 			<data>
 			B3K7BqvqT5lg0JlLMxH3H6VAUpSuY+r97la0iLSVhDs=
+			</data>
+		</dict>
+		<key>Resources/libswiftRemoteMirror.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GACfJVnV/01/bFtw7YlPG/bIhx0=
+			</data>
+			<key>hash2</key>
+			<data>
+			pzHyh4D4Aau9yDgSMCCwr0Ye+bl9UvZGUUwORgLOS4I=
 			</data>
 		</dict>
 		<key>Resources/neq.car</key>
