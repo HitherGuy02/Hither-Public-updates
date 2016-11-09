@@ -5,7 +5,7 @@
 	<key>HTML Hither com</key>
 	<string>&lt;!-------HITHER------&gt;</string>
 	<key>HTML Hither com replace</key>
-	<string>&lt;!--LAST--&gt;&lt;li&gt;&lt;img src=&quot;img/%@&quot; alt=&quot;heather&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; - - - - - - &lt;a href=&quot;%@&quot; target=&quot;_blank&quot;&gt;%@&lt;/a&gt; - - - - - - - -&lt;em&gt;&lt;a href=&quot;%@&quot;&gt;%@&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;!--LASTEND--&gt; &lt;!-------HITHER------&gt;</string>
+	<string>&lt;!--LAST--&gt;&lt;!--More--&gt;&lt;li&gt;&lt;img src=&quot;img/%@&quot; alt=&quot;heather&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; - - - - - - &lt;a href=&quot;%@&quot; target=&quot;_blank&quot;&gt;%@&lt;/a&gt; - - - - - - - -&lt;em&gt;&lt;a href=&quot;%@&quot;&gt;%@&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;!--LASTEND--&gt; &lt;!-------HITHER------&gt;</string>
 	<key>HTML Hither com replacelight</key>
 	<string>&lt;!--LAST--&gt;&lt;li&gt;&lt;img src=&quot;img/NoTest.png&quot; alt=&quot;heather&quot; width=&quot;20&quot; height=&quot;20&quot;&gt; - - - - - - %@ - - - - - - - -&lt;em&gt;&lt;a href=&quot;%@&quot;&gt;google&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;!--LASTEND--&gt; &lt;!-------HITHER------&gt;</string>
 	<key>historypage.html</key>
