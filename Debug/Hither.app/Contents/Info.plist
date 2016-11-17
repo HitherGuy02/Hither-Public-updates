@@ -37,7 +37,7 @@
 	<key>CFBundleExecutable</key>
 	<string>Hither</string>
 	<key>CFBundleIconFile</key>
-	<string>AppIcon</string>
+	<string>AppIcon-1</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.HitherGuy02.Hither</string>
 	<key>CFBundleInfoDictionaryVersion</key>
