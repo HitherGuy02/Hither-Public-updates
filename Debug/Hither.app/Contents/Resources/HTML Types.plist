@@ -9343,7 +9343,10 @@ return jQuery;
                             &lt;a onclick=&quot;SetTopColor()&quot;&gt;Set Background&lt;/a&gt;
                         &lt;/div&gt;
                         &lt;div&gt;
-                            &lt;a onclick=&quot;SetAutoUpdate()&quot;&gt;Set Auto Updating&lt;/a&gt;
+                            &lt;a onclick=&quot;SetAutoUpdate()&quot;&gt;Set Auto Update&lt;/a&gt;
+                        &lt;/div&gt;
+                        &lt;div&gt;
+                            &lt;a onclick=&quot;clearPass()&quot;&gt;Clear Passwords&lt;/a&gt;
                         &lt;/div&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
@@ -9367,6 +9370,10 @@ function SetTopColor() {
 };
 function SetAutoUpdate() {
     var t = window.webEl.setAutoUpdate_();
+    
+};
+function clearPass() {
+    var t = window.webEl.clearPasswords_();
     
 };
 &lt;/script&gt;

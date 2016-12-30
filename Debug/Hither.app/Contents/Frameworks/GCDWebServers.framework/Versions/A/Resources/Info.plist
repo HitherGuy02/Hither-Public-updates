@@ -7,25 +7,23 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>URLWeb</string>
+	<string>GCDWebServers</string>
 	<key>CFBundleIdentifier</key>
-	<string>combybbb.URLWeb</string>
+	<string>net.pol-online.GCDWebServers</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>URLWeb</string>
+	<string>GCDWebServers</string>
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
-	<key>CFBundleSignature</key>
-	<string>????</string>
+	<string>3.3.3</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>3.3.3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -40,7 +38,5 @@
 	<string>0810</string>
 	<key>DTXcodeBuild</key>
 	<string>8B62</string>
-	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2016 Sterling . All rights reserved.</string>
 </dict>
 </plist>
